@@ -1,0 +1,6 @@
+2016-11-16 22:00:01.188 INFO  (main) [   ] o.e.j.s.Server jetty-9.3.8.v20160314
+2016-11-16 22:00:01.516 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 6.3.0
+2016-11-16 22:00:01.516 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in standalone mode on port 8983
+2016-11-16 22:00:01.516 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: /Users/shuhengli/downloads/solr-6.3.0
+2016-11-16 22:00:01.608 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2016-11-16T22:00:01.520Z
+2016-11-16 22:00:01.608 INFO  (main) [   ] o.a.s.s.StartupLoggingUtils Property solr.log.muteconsole given. Muting ConsoleAppender named CONSOLE
